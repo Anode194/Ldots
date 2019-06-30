@@ -1,0 +1,50 @@
+shell vim routes.txt
+shell unzip primMST.zip
+shell tar xzf swift-5.0.1-RELEASE-ubuntu18.04.tar.gz
+search .bash
+search usr
+search do
+search doc
+search ncmpc
+search config
+search nc
+open_with vim
+search .conf
+mkdir ncmpcpp
+search us
+search ncm
+shell vim config
+search mpd
+mkdir  playlist
+search Scri
+shell vim color2.sh
+search ht
+mkdir  demo
+shell vim embed.php
+open_with 2
+shell vim blank.php
+shell vim dynamic_text.php
+search .vim
+x
+search 
+shell unzip Files_downloaded_by_AirDroid.zip
+search apt
+search .al
+mkdir
+open_with vlc
+shell unzip vlc_for_win8_by_mithilesh_by_mthileshjoshi_d7obcpf.rar
+open_with zip
+mkdir  books
+shell vim booksmain.cpp
+shell touch example.txt
+open_with 
+
+shell vim hello.txt
+shell vim hello
+delete
+mkdir  steam
+search .cach
+search wa
+search .cache
+search wal
+search po

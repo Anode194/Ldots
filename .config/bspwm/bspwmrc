@@ -1,0 +1,45 @@
+#! /bin/sh
+
+sxhkd &
+
+# sets bg and term colors for now
+
+polybar example &
+feh --bg-fill ~/Pictures/wallPapers/grey.png
+wal --theme base16-google
+compton --config ~/.config/compton/compton.conf
+
+#bash ~/.config/lemonbar/lemBar.sh | lemonbar -g 3440x30+0+0 -U \#0d0c09 -f FreeMono & 
+
+bspc monitor DP-4 -d I II III IV V VI
+
+bspc config border_width         2
+bspc config window_gap         20 
+
+bspc config split_ratio          0.52
+bspc config borderless_monocle   false
+bspc config gapless_monocle      false
+
+#cursor
+xsetroot -cursor_name left_ptr &
+
+bspc config pointer_modifier mod1
+
+bspc config top_padding 30 
+bspc config left_padding 10
+bspc config right_padding 10
+bspc config bottom_padding 10
+
+bspc config automatic_scheme alternate
+. "${HOME}/.cache/wal/colors.sh"
+
+# Border Colors
+bspc config focused_border_color $color15
+bspc config normal_border_color $color13
+# focus follows mouse
+bspc config focus_follows_pointer true
+bspc rule -a Gimp desktop='^8' state=floating follow=on
+bspc rule -a Chromium desktop='^2'
+bspc rule -a mplayer2 state=floating
+bspc rule -a Kupfer.py focus=on
+bspc rule -a Screenkey manage=off
