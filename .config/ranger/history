@@ -1,15 +1,3 @@
-shell vim routes.txt
-shell unzip primMST.zip
-shell tar xzf swift-5.0.1-RELEASE-ubuntu18.04.tar.gz
-search .bash
-search usr
-search do
-search doc
-search ncmpc
-search config
-search nc
-open_with vim
-search .conf
 mkdir ncmpcpp
 search us
 search ncm
@@ -37,14 +25,26 @@ open_with zip
 mkdir  books
 shell vim booksmain.cpp
 shell touch example.txt
-open_with 
 
 shell vim hello.txt
 shell vim hello
-delete
 mkdir  steam
-search .cach
 search wa
 search .cache
 search wal
 search po
+search bsp
+search Pro
+search main
+shell jjj
+rename configstore
+search blue
+search input
+se
+search .vimr
+open_with vim
+shell -p 
+open_with 
+search .cach
+mkdir  raw
+delete

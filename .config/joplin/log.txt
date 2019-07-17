@@ -45885,3 +45885,909 @@ Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
     at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
     at <anonymous>
     at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-08 10:50:03: "Profile directory: /home/jo/.config/joplin"
+2019-07-08 10:50:03: "Trying to load 0 master keys..."
+2019-07-08 10:50:03: "Loaded master keys: 0"
+2019-07-08 10:50:03: "ResourceFetcher: Auto-added resources: 0"
+2019-07-08 10:50:03: "Trying to load 0 master keys..."
+2019-07-08 10:50:03: "Loaded master keys: 0"
+2019-07-08 10:50:03: "Scheduling sync operation..."
+2019-07-08 10:50:04: "DecryptionWorker: starting decryption..."
+2019-07-08 10:50:04: "DecryptionWorker: completed decryption."
+2019-07-08 10:50:09: "Disabling fullscreen..."
+2019-07-08 18:07:58: "Preparing scheduled sync"
+2019-07-08 18:07:58: "Saving updated Dropbox auth."
+2019-07-08 18:07:58: "Starting scheduled sync"
+2019-07-08 18:07:58: "ResourceService::indexNoteResources: Start"
+2019-07-08 18:07:58: "Running background sync on timer..."
+2019-07-08 18:07:58: "Scheduling sync operation..."
+2019-07-08 18:07:58: "Preparing scheduled sync"
+2019-07-08 18:07:58: "Starting scheduled sync"
+2019-07-08 18:07:58: "Synchronisation is already in progress. State: in_progress"
+2019-07-08 18:07:58: "ResourceService::indexNoteResources: Start"
+2019-07-08 18:07:58: "ResourceService::indexNoteResources: Completed"
+2019-07-08 18:07:58: "ResourceService::deleteOrphanResources:", "[]"
+2019-07-08 18:07:58: "ResourceService::indexNoteResources: Completed"
+2019-07-08 18:07:58: "ResourceService::deleteOrphanResources:", "[]"
+2019-07-08 18:08:03: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-08 18:08:03: "Operations completed: "
+2019-07-08 18:08:03: "updateRemote: 1"
+2019-07-08 18:08:03: "fetchingTotal: 16"
+2019-07-08 18:08:03: "Total folders: 8"
+2019-07-08 18:08:03: "Total notes: 209"
+2019-07-08 18:08:03: "Total resources: 4"
+2019-07-08 18:08:03: "There was some errors:"
+2019-07-08 18:08:03: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-08 18:08:08: "Disabling fullscreen..."
+2019-07-10 12:39:23: "Profile directory: /home/jo/.config/joplin"
+2019-07-10 12:39:23: "Trying to load 0 master keys..."
+2019-07-10 12:39:23: "Loaded master keys: 0"
+2019-07-10 12:39:23: "ResourceFetcher: Auto-added resources: 0"
+2019-07-10 12:39:23: "Trying to load 0 master keys..."
+2019-07-10 12:39:23: "Loaded master keys: 0"
+2019-07-10 12:39:23: "Scheduling sync operation..."
+2019-07-10 12:39:24: "DecryptionWorker: starting decryption..."
+2019-07-10 12:39:24: "DecryptionWorker: completed decryption."
+2019-07-10 12:39:33: "Preparing scheduled sync"
+2019-07-10 12:39:33: "Saving updated Dropbox auth."
+2019-07-10 12:39:33: "Starting scheduled sync"
+2019-07-10 12:39:35: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 12:39:35: "Operations completed: "
+2019-07-10 12:39:35: "fetchingTotal: 16"
+2019-07-10 12:39:35: "Total folders: 8"
+2019-07-10 12:39:35: "Total notes: 209"
+2019-07-10 12:39:35: "Total resources: 4"
+2019-07-10 12:39:35: "There was some errors:"
+2019-07-10 12:39:35: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 12:39:53: "ResourceService::indexNoteResources: Start"
+2019-07-10 12:39:53: "ResourceService::indexNoteResources: Completed"
+2019-07-10 12:39:53: "ResourceService::deleteOrphanResources:", "[]"
+2019-07-10 12:44:35: "Running background sync on timer..."
+2019-07-10 12:44:35: "Scheduling sync operation..."
+2019-07-10 12:44:35: "Preparing scheduled sync"
+2019-07-10 12:44:35: "Starting scheduled sync"
+2019-07-10 12:44:37: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 12:44:37: "Operations completed: "
+2019-07-10 12:44:37: "fetchingTotal: 16"
+2019-07-10 12:44:37: "Total folders: 8"
+2019-07-10 12:44:37: "Total notes: 209"
+2019-07-10 12:44:37: "Total resources: 4"
+2019-07-10 12:44:37: "There was some errors:"
+2019-07-10 12:44:37: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 12:47:08: "Disabling fullscreen..."
+2019-07-10 13:23:36: "Running background sync on timer..."
+2019-07-10 13:23:36: "Scheduling sync operation..."
+2019-07-10 13:23:36: "Preparing scheduled sync"
+2019-07-10 13:23:36: "Starting scheduled sync"
+2019-07-10 13:23:38: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 13:23:38: "Operations completed: "
+2019-07-10 13:23:38: "fetchingTotal: 16"
+2019-07-10 13:23:38: "Total folders: 8"
+2019-07-10 13:23:38: "Total notes: 209"
+2019-07-10 13:23:38: "Total resources: 4"
+2019-07-10 13:23:38: "There was some errors:"
+2019-07-10 13:23:38: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 13:23:51: "Disabling fullscreen..."
+2019-07-10 13:27:01: "Disabling fullscreen..."
+2019-07-10 15:00:26: "Running background sync on timer..."
+2019-07-10 15:00:26: "Scheduling sync operation..."
+2019-07-10 15:00:26: "Preparing scheduled sync"
+2019-07-10 15:00:26: "Starting scheduled sync"
+2019-07-10 15:00:30: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:00:30: "Operations completed: "
+2019-07-10 15:00:30: "updateRemote: 1"
+2019-07-10 15:00:30: "fetchingTotal: 17"
+2019-07-10 15:00:30: "Total folders: 8"
+2019-07-10 15:00:30: "Total notes: 209"
+2019-07-10 15:00:30: "Total resources: 4"
+2019-07-10 15:00:30: "There was some errors:"
+2019-07-10 15:00:30: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:00:35: "Disabling fullscreen..."
+2019-07-10 15:05:30: "Running background sync on timer..."
+2019-07-10 15:05:30: "Scheduling sync operation..."
+2019-07-10 15:05:30: "Preparing scheduled sync"
+2019-07-10 15:05:30: "Starting scheduled sync"
+2019-07-10 15:05:34: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:05:34: "Operations completed: "
+2019-07-10 15:05:34: "updateRemote: 1"
+2019-07-10 15:05:34: "fetchingTotal: 17"
+2019-07-10 15:05:34: "Total folders: 8"
+2019-07-10 15:05:34: "Total notes: 209"
+2019-07-10 15:05:34: "Total resources: 4"
+2019-07-10 15:05:34: "There was some errors:"
+2019-07-10 15:05:34: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:10:34: "Running background sync on timer..."
+2019-07-10 15:10:34: "Scheduling sync operation..."
+2019-07-10 15:10:34: "Preparing scheduled sync"
+2019-07-10 15:10:34: "Starting scheduled sync"
+2019-07-10 15:10:36: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:10:36: "Operations completed: "
+2019-07-10 15:10:36: "fetchingTotal: 17"
+2019-07-10 15:10:36: "Total folders: 8"
+2019-07-10 15:10:36: "Total notes: 209"
+2019-07-10 15:10:36: "Total resources: 4"
+2019-07-10 15:10:36: "There was some errors:"
+2019-07-10 15:10:36: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:15:36: "Running background sync on timer..."
+2019-07-10 15:15:36: "Scheduling sync operation..."
+2019-07-10 15:15:36: "Preparing scheduled sync"
+2019-07-10 15:15:36: "Starting scheduled sync"
+2019-07-10 15:15:38: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:15:38: "Operations completed: "
+2019-07-10 15:15:38: "fetchingTotal: 17"
+2019-07-10 15:15:38: "Total folders: 8"
+2019-07-10 15:15:38: "Total notes: 209"
+2019-07-10 15:15:38: "Total resources: 4"
+2019-07-10 15:15:38: "There was some errors:"
+2019-07-10 15:15:38: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:20:38: "Running background sync on timer..."
+2019-07-10 15:20:38: "Scheduling sync operation..."
+2019-07-10 15:20:38: "Preparing scheduled sync"
+2019-07-10 15:20:38: "Starting scheduled sync"
+2019-07-10 15:20:40: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:20:40: "Operations completed: "
+2019-07-10 15:20:40: "fetchingTotal: 17"
+2019-07-10 15:20:40: "Total folders: 8"
+2019-07-10 15:20:40: "Total notes: 209"
+2019-07-10 15:20:40: "Total resources: 4"
+2019-07-10 15:20:40: "There was some errors:"
+2019-07-10 15:20:40: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:25:40: "Running background sync on timer..."
+2019-07-10 15:25:40: "Scheduling sync operation..."
+2019-07-10 15:25:40: "Preparing scheduled sync"
+2019-07-10 15:25:40: "Starting scheduled sync"
+2019-07-10 15:25:41: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:25:41: "Operations completed: "
+2019-07-10 15:25:41: "fetchingTotal: 17"
+2019-07-10 15:25:41: "Total folders: 8"
+2019-07-10 15:25:41: "Total notes: 209"
+2019-07-10 15:25:41: "Total resources: 4"
+2019-07-10 15:25:41: "There was some errors:"
+2019-07-10 15:25:41: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:30:42: "Running background sync on timer..."
+2019-07-10 15:30:42: "Scheduling sync operation..."
+2019-07-10 15:30:42: "Preparing scheduled sync"
+2019-07-10 15:30:42: "Starting scheduled sync"
+2019-07-10 15:30:43: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:30:43: "Operations completed: "
+2019-07-10 15:30:43: "fetchingTotal: 17"
+2019-07-10 15:30:43: "Total folders: 8"
+2019-07-10 15:30:43: "Total notes: 209"
+2019-07-10 15:30:43: "Total resources: 4"
+2019-07-10 15:30:43: "There was some errors:"
+2019-07-10 15:30:43: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:35:43: "Running background sync on timer..."
+2019-07-10 15:35:43: "Scheduling sync operation..."
+2019-07-10 15:35:43: "Preparing scheduled sync"
+2019-07-10 15:35:43: "Starting scheduled sync"
+2019-07-10 15:35:45: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:35:45: "Operations completed: "
+2019-07-10 15:35:45: "fetchingTotal: 17"
+2019-07-10 15:35:45: "Total folders: 8"
+2019-07-10 15:35:45: "Total notes: 209"
+2019-07-10 15:35:45: "Total resources: 4"
+2019-07-10 15:35:45: "There was some errors:"
+2019-07-10 15:35:45: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:40:45: "Running background sync on timer..."
+2019-07-10 15:40:45: "Scheduling sync operation..."
+2019-07-10 15:40:45: "Preparing scheduled sync"
+2019-07-10 15:40:45: "Starting scheduled sync"
+2019-07-10 15:40:47: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:40:47: "Operations completed: "
+2019-07-10 15:40:47: "fetchingTotal: 17"
+2019-07-10 15:40:47: "Total folders: 8"
+2019-07-10 15:40:47: "Total notes: 209"
+2019-07-10 15:40:47: "Total resources: 4"
+2019-07-10 15:40:47: "There was some errors:"
+2019-07-10 15:40:47: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:45:47: "Running background sync on timer..."
+2019-07-10 15:45:47: "Scheduling sync operation..."
+2019-07-10 15:45:47: "Preparing scheduled sync"
+2019-07-10 15:45:47: "Starting scheduled sync"
+2019-07-10 15:45:49: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:45:49: "Operations completed: "
+2019-07-10 15:45:49: "fetchingTotal: 17"
+2019-07-10 15:45:49: "Total folders: 8"
+2019-07-10 15:45:49: "Total notes: 209"
+2019-07-10 15:45:49: "Total resources: 4"
+2019-07-10 15:45:49: "There was some errors:"
+2019-07-10 15:45:49: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:50:49: "Running background sync on timer..."
+2019-07-10 15:50:49: "Scheduling sync operation..."
+2019-07-10 15:50:49: "Preparing scheduled sync"
+2019-07-10 15:50:49: "Starting scheduled sync"
+2019-07-10 15:50:51: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:50:51: "Operations completed: "
+2019-07-10 15:50:51: "fetchingTotal: 17"
+2019-07-10 15:50:51: "Total folders: 8"
+2019-07-10 15:50:51: "Total notes: 209"
+2019-07-10 15:50:51: "Total resources: 4"
+2019-07-10 15:50:51: "There was some errors:"
+2019-07-10 15:50:51: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:55:51: "Running background sync on timer..."
+2019-07-10 15:55:51: "Scheduling sync operation..."
+2019-07-10 15:55:51: "Preparing scheduled sync"
+2019-07-10 15:55:51: "Starting scheduled sync"
+2019-07-10 15:55:52: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 15:55:52: "Operations completed: "
+2019-07-10 15:55:52: "fetchingTotal: 17"
+2019-07-10 15:55:52: "Total folders: 8"
+2019-07-10 15:55:52: "Total notes: 209"
+2019-07-10 15:55:52: "Total resources: 4"
+2019-07-10 15:55:52: "There was some errors:"
+2019-07-10 15:55:52: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:00:52: "Running background sync on timer..."
+2019-07-10 16:00:52: "Scheduling sync operation..."
+2019-07-10 16:00:52: "Preparing scheduled sync"
+2019-07-10 16:00:52: "Starting scheduled sync"
+2019-07-10 16:00:54: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:00:54: "Operations completed: "
+2019-07-10 16:00:54: "fetchingTotal: 17"
+2019-07-10 16:00:54: "Total folders: 8"
+2019-07-10 16:00:54: "Total notes: 209"
+2019-07-10 16:00:54: "Total resources: 4"
+2019-07-10 16:00:54: "There was some errors:"
+2019-07-10 16:00:54: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:05:54: "Running background sync on timer..."
+2019-07-10 16:05:54: "Scheduling sync operation..."
+2019-07-10 16:05:54: "Preparing scheduled sync"
+2019-07-10 16:05:54: "Starting scheduled sync"
+2019-07-10 16:05:56: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:05:56: "Operations completed: "
+2019-07-10 16:05:56: "fetchingTotal: 17"
+2019-07-10 16:05:56: "Total folders: 8"
+2019-07-10 16:05:56: "Total notes: 209"
+2019-07-10 16:05:56: "Total resources: 4"
+2019-07-10 16:05:56: "There was some errors:"
+2019-07-10 16:05:56: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:10:56: "Running background sync on timer..."
+2019-07-10 16:10:56: "Scheduling sync operation..."
+2019-07-10 16:10:56: "Preparing scheduled sync"
+2019-07-10 16:10:56: "Starting scheduled sync"
+2019-07-10 16:10:58: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:10:58: "Operations completed: "
+2019-07-10 16:10:58: "fetchingTotal: 17"
+2019-07-10 16:10:58: "Total folders: 8"
+2019-07-10 16:10:58: "Total notes: 209"
+2019-07-10 16:10:58: "Total resources: 4"
+2019-07-10 16:10:58: "There was some errors:"
+2019-07-10 16:10:58: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:15:58: "Running background sync on timer..."
+2019-07-10 16:15:58: "Scheduling sync operation..."
+2019-07-10 16:15:58: "Preparing scheduled sync"
+2019-07-10 16:15:58: "Starting scheduled sync"
+2019-07-10 16:16:00: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:16:00: "Operations completed: "
+2019-07-10 16:16:00: "fetchingTotal: 17"
+2019-07-10 16:16:00: "Total folders: 8"
+2019-07-10 16:16:00: "Total notes: 209"
+2019-07-10 16:16:00: "Total resources: 4"
+2019-07-10 16:16:00: "There was some errors:"
+2019-07-10 16:16:00: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:21:00: "Running background sync on timer..."
+2019-07-10 16:21:00: "Scheduling sync operation..."
+2019-07-10 16:21:00: "Preparing scheduled sync"
+2019-07-10 16:21:00: "Starting scheduled sync"
+2019-07-10 16:21:03: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:21:03: "Operations completed: "
+2019-07-10 16:21:03: "fetchingTotal: 17"
+2019-07-10 16:21:03: "Total folders: 8"
+2019-07-10 16:21:03: "Total notes: 209"
+2019-07-10 16:21:03: "Total resources: 4"
+2019-07-10 16:21:03: "There was some errors:"
+2019-07-10 16:21:03: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:26:03: "Running background sync on timer..."
+2019-07-10 16:26:03: "Scheduling sync operation..."
+2019-07-10 16:26:03: "Preparing scheduled sync"
+2019-07-10 16:26:03: "Starting scheduled sync"
+2019-07-10 16:26:05: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:26:05: "Operations completed: "
+2019-07-10 16:26:05: "fetchingTotal: 17"
+2019-07-10 16:26:05: "Total folders: 8"
+2019-07-10 16:26:05: "Total notes: 209"
+2019-07-10 16:26:05: "Total resources: 4"
+2019-07-10 16:26:05: "There was some errors:"
+2019-07-10 16:26:05: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:31:05: "Running background sync on timer..."
+2019-07-10 16:31:05: "Scheduling sync operation..."
+2019-07-10 16:31:05: "Preparing scheduled sync"
+2019-07-10 16:31:05: "Starting scheduled sync"
+2019-07-10 16:31:06: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:31:06: "Operations completed: "
+2019-07-10 16:31:06: "fetchingTotal: 17"
+2019-07-10 16:31:06: "Total folders: 8"
+2019-07-10 16:31:06: "Total notes: 209"
+2019-07-10 16:31:06: "Total resources: 4"
+2019-07-10 16:31:06: "There was some errors:"
+2019-07-10 16:31:06: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:36:06: "Running background sync on timer..."
+2019-07-10 16:36:06: "Scheduling sync operation..."
+2019-07-10 16:36:06: "Preparing scheduled sync"
+2019-07-10 16:36:06: "Starting scheduled sync"
+2019-07-10 16:36:08: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:36:08: "Operations completed: "
+2019-07-10 16:36:08: "fetchingTotal: 17"
+2019-07-10 16:36:08: "Total folders: 8"
+2019-07-10 16:36:08: "Total notes: 209"
+2019-07-10 16:36:08: "Total resources: 4"
+2019-07-10 16:36:08: "There was some errors:"
+2019-07-10 16:36:08: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:39:23: "ResourceService::indexNoteResources: Start"
+2019-07-10 16:39:24: "ResourceService::indexNoteResources: Completed"
+2019-07-10 16:39:24: "ResourceService::deleteOrphanResources:", "[]"
+2019-07-10 16:41:08: "Running background sync on timer..."
+2019-07-10 16:41:08: "Scheduling sync operation..."
+2019-07-10 16:41:08: "Preparing scheduled sync"
+2019-07-10 16:41:08: "Starting scheduled sync"
+2019-07-10 16:41:10: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:41:10: "Operations completed: "
+2019-07-10 16:41:10: "fetchingTotal: 17"
+2019-07-10 16:41:10: "Total folders: 8"
+2019-07-10 16:41:10: "Total notes: 209"
+2019-07-10 16:41:10: "Total resources: 4"
+2019-07-10 16:41:10: "There was some errors:"
+2019-07-10 16:41:10: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:46:10: "Running background sync on timer..."
+2019-07-10 16:46:10: "Scheduling sync operation..."
+2019-07-10 16:46:10: "Preparing scheduled sync"
+2019-07-10 16:46:10: "Starting scheduled sync"
+2019-07-10 16:46:11: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:46:11: "Operations completed: "
+2019-07-10 16:46:11: "fetchingTotal: 17"
+2019-07-10 16:46:11: "Total folders: 8"
+2019-07-10 16:46:11: "Total notes: 209"
+2019-07-10 16:46:11: "Total resources: 4"
+2019-07-10 16:46:11: "There was some errors:"
+2019-07-10 16:46:11: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:51:11: "Running background sync on timer..."
+2019-07-10 16:51:11: "Scheduling sync operation..."
+2019-07-10 16:51:11: "Preparing scheduled sync"
+2019-07-10 16:51:11: "Starting scheduled sync"
+2019-07-10 16:51:13: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:51:13: "Operations completed: "
+2019-07-10 16:51:13: "fetchingTotal: 17"
+2019-07-10 16:51:13: "Total folders: 8"
+2019-07-10 16:51:13: "Total notes: 209"
+2019-07-10 16:51:13: "Total resources: 4"
+2019-07-10 16:51:13: "There was some errors:"
+2019-07-10 16:51:13: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:56:13: "Running background sync on timer..."
+2019-07-10 16:56:13: "Scheduling sync operation..."
+2019-07-10 16:56:13: "Preparing scheduled sync"
+2019-07-10 16:56:13: "Starting scheduled sync"
+2019-07-10 16:56:15: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 16:56:15: "Operations completed: "
+2019-07-10 16:56:15: "fetchingTotal: 17"
+2019-07-10 16:56:15: "Total folders: 8"
+2019-07-10 16:56:15: "Total notes: 209"
+2019-07-10 16:56:15: "Total resources: 4"
+2019-07-10 16:56:15: "There was some errors:"
+2019-07-10 16:56:15: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:01:15: "Running background sync on timer..."
+2019-07-10 17:01:15: "Scheduling sync operation..."
+2019-07-10 17:01:15: "Preparing scheduled sync"
+2019-07-10 17:01:15: "Starting scheduled sync"
+2019-07-10 17:01:17: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:01:17: "Operations completed: "
+2019-07-10 17:01:17: "fetchingTotal: 17"
+2019-07-10 17:01:17: "Total folders: 8"
+2019-07-10 17:01:17: "Total notes: 209"
+2019-07-10 17:01:17: "Total resources: 4"
+2019-07-10 17:01:17: "There was some errors:"
+2019-07-10 17:01:17: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:06:17: "Running background sync on timer..."
+2019-07-10 17:06:17: "Scheduling sync operation..."
+2019-07-10 17:06:17: "Preparing scheduled sync"
+2019-07-10 17:06:17: "Starting scheduled sync"
+2019-07-10 17:06:19: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:06:19: "Operations completed: "
+2019-07-10 17:06:19: "fetchingTotal: 17"
+2019-07-10 17:06:19: "Total folders: 8"
+2019-07-10 17:06:19: "Total notes: 209"
+2019-07-10 17:06:19: "Total resources: 4"
+2019-07-10 17:06:19: "There was some errors:"
+2019-07-10 17:06:19: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:11:19: "Running background sync on timer..."
+2019-07-10 17:11:19: "Scheduling sync operation..."
+2019-07-10 17:11:19: "Preparing scheduled sync"
+2019-07-10 17:11:19: "Starting scheduled sync"
+2019-07-10 17:11:20: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:11:20: "Operations completed: "
+2019-07-10 17:11:20: "fetchingTotal: 17"
+2019-07-10 17:11:20: "Total folders: 8"
+2019-07-10 17:11:20: "Total notes: 209"
+2019-07-10 17:11:20: "Total resources: 4"
+2019-07-10 17:11:20: "There was some errors:"
+2019-07-10 17:11:20: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:16:20: "Running background sync on timer..."
+2019-07-10 17:16:20: "Scheduling sync operation..."
+2019-07-10 17:16:20: "Preparing scheduled sync"
+2019-07-10 17:16:20: "Starting scheduled sync"
+2019-07-10 17:16:22: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:16:22: "Operations completed: "
+2019-07-10 17:16:22: "fetchingTotal: 17"
+2019-07-10 17:16:22: "Total folders: 8"
+2019-07-10 17:16:22: "Total notes: 209"
+2019-07-10 17:16:22: "Total resources: 4"
+2019-07-10 17:16:22: "There was some errors:"
+2019-07-10 17:16:22: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:21:22: "Running background sync on timer..."
+2019-07-10 17:21:22: "Scheduling sync operation..."
+2019-07-10 17:21:22: "Preparing scheduled sync"
+2019-07-10 17:21:22: "Starting scheduled sync"
+2019-07-10 17:21:24: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:21:24: "Operations completed: "
+2019-07-10 17:21:24: "fetchingTotal: 17"
+2019-07-10 17:21:24: "Total folders: 8"
+2019-07-10 17:21:24: "Total notes: 209"
+2019-07-10 17:21:24: "Total resources: 4"
+2019-07-10 17:21:24: "There was some errors:"
+2019-07-10 17:21:24: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:26:24: "Running background sync on timer..."
+2019-07-10 17:26:24: "Scheduling sync operation..."
+2019-07-10 17:26:24: "Preparing scheduled sync"
+2019-07-10 17:26:24: "Starting scheduled sync"
+2019-07-10 17:26:25: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:26:25: "Operations completed: "
+2019-07-10 17:26:25: "fetchingTotal: 17"
+2019-07-10 17:26:25: "Total folders: 8"
+2019-07-10 17:26:25: "Total notes: 209"
+2019-07-10 17:26:25: "Total resources: 4"
+2019-07-10 17:26:25: "There was some errors:"
+2019-07-10 17:26:25: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:31:25: "Running background sync on timer..."
+2019-07-10 17:31:25: "Scheduling sync operation..."
+2019-07-10 17:31:25: "Preparing scheduled sync"
+2019-07-10 17:31:25: "Starting scheduled sync"
+2019-07-10 17:31:27: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:31:27: "Operations completed: "
+2019-07-10 17:31:27: "fetchingTotal: 17"
+2019-07-10 17:31:27: "Total folders: 8"
+2019-07-10 17:31:27: "Total notes: 209"
+2019-07-10 17:31:27: "Total resources: 4"
+2019-07-10 17:31:27: "There was some errors:"
+2019-07-10 17:31:27: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:36:27: "Running background sync on timer..."
+2019-07-10 17:36:27: "Scheduling sync operation..."
+2019-07-10 17:36:27: "Preparing scheduled sync"
+2019-07-10 17:36:27: "Starting scheduled sync"
+2019-07-10 17:36:29: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
+2019-07-10 17:36:29: "Operations completed: "
+2019-07-10 17:36:29: "fetchingTotal: 17"
+2019-07-10 17:36:29: "Total folders: 8"
+2019-07-10 17:36:29: "Total notes: 209"
+2019-07-10 17:36:29: "Total resources: 4"
+2019-07-10 17:36:29: "There was some errors:"
+2019-07-10 17:36:29: "Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+Error: On file 52db0046016843dd95675647ad38008e.md: Unknown type: 13
+    at Function.itemClass (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:109:10)
+    at Function.unserialize (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/models/BaseItem.js:386:26)
+    at loadContent (/home/jo/.joplin-bin/lib/node_modules/joplin/lib/synchronizer.js:491:30)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)"
